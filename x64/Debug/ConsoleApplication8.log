@@ -1,0 +1,3 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\Ноутбук\Desktop\Алгоритмы и структуры данных\Деревья\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(343,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication8.vcxproj -> C:\Users\Ноутбук\Desktop\Алгоритмы и структуры данных\Деревья\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
